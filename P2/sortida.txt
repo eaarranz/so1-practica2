@@ -1,0 +1,18 @@
+total 112
+-rwxrwxrwx  1 eudaldarranztresserra  staff   1198 Mar  5 19:38 find.sh
+-rw-r--r--  1 eudaldarranztresserra  staff     21 Mar  5 19:44 hola.txt
+-rw-r--r--  1 eudaldarranztresserra  staff  32768 Mar  5 19:40 long.txt
+-rwxrwxrwx  1 eudaldarranztresserra  staff    731 Mar  5 19:52 pipes.sh
+-rwxrwxrwx  1 eudaldarranztresserra  staff    757 Mar  5 20:04 redireccions.sh
+-rwxrwxrwx  1 eudaldarranztresserra  staff    502 Mar  5 19:44 sed.sh
+-rw-r--r--  1 eudaldarranztresserra  staff     16 Mar  5 20:04 short.txt
+-rw-r--r--  1 eudaldarranztresserra  staff      0 Mar  6 08:12 sortida.txt
+total 120
+-rwxrwxrwx  1 eudaldarranztresserra  staff   1198 Mar  5 19:38 find.sh
+-rw-r--r--  1 eudaldarranztresserra  staff     21 Mar  5 19:44 hola.txt
+-rw-r--r--  1 eudaldarranztresserra  staff  32768 Mar  5 19:40 long.txt
+-rwxrwxrwx  1 eudaldarranztresserra  staff    731 Mar  5 19:52 pipes.sh
+-rwxrwxrwx  1 eudaldarranztresserra  staff    757 Mar  5 20:04 redireccions.sh
+-rwxrwxrwx  1 eudaldarranztresserra  staff    502 Mar  5 19:44 sed.sh
+-rw-r--r--  1 eudaldarranztresserra  staff     16 Mar  5 20:04 short.txt
+-rw-r--r--  1 eudaldarranztresserra  staff    594 Mar  6 08:12 sortida.txt
